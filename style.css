@@ -1,0 +1,36 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://www.telegraph.co.uk/content/dam/betting/Better-Collective/casino-blackjack-table-xlarge.jpg?imwidth=1200");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background-repeat : no-repeat;
+}
+
+.container {
+  border: 2px solid white;  
+  margin: 10%;  
+  background: #000;
+  box-sizing: border-box;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color : #016f32;
+    width : 150px;
+    background: goldenrod;
+    padding: 5 0 5 0;
+    border: none;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+
